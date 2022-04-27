@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shade",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "axios-cookiejar-support": "^2.0.4",
+    "axios-https-proxy": "^0.1.1",
+    "csvtojson": "^2.0.10",
+    "form-data": "^4.0.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
